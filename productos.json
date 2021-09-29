@@ -17,27 +17,34 @@
         },
         {
             "id": 3,
-            "nombre": "cerezas",
+            "nombre": "Cerezas",
             "descripcion": "Cerezas de la wena casero",
             "precio": null,
             "imagen": "assets/img/cerezas.jpeg",
-            "cantidad": 10
+            "cantidad": 40
         },
         {
             "id": 4,
             "nombre": "Frutillas",
             "descripcion": "Pal Chimbombo, el Cleri y Borgoña",
             "precio": null,
-            "imagen": "assets/img/peras.jpeg",
+            "imagen": "assets/img/frutillas.jpeg",
             "cantidad": 10
         },
         {
             "id": 5,
-            "nombre": "Melocotones",
-            "descripcion": "Natur",
-            "precio": "3.55",
-            "imagen": "assets/img/peras.jpeg",
-            "cantidad": 10
+            "nombre": "Naranjas",
+            "descripcion": "Naranjas",
+            "precio": "950",
+            "imagen": "assets/img/naranjas.jpeg",
+            "cantidad": 15
+        },
+        { "id": 5,
+            "nombre": "Papayas",
+            "descripcion": "papayas",
+            "precio": "950",
+            "imagen": "assets/img/papayas.jpeg",
+            "cantidad": 30
         }
     ]
 }
